@@ -1,4 +1,4 @@
-FROM python:alpine
+FROM python:3.6
 
 LABEL Name=segmentation Version=0.0.1
 
