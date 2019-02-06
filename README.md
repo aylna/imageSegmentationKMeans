@@ -9,3 +9,11 @@
 ## Result
 
 ![Example image](https://github.com/aylna/imageSegmentationKMeans/raw/master/result1.png)
+
+
+# Docker usage
+
+```
+docker build -t kmeans .
+docker run kmeans
+```
